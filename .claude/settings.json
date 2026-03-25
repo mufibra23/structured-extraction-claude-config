@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip:*)",
+      "Bash(pytest:*)",
+      "Read",
+      "Write"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(curl:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python -c \"import py_compile, sys; py_compile.compile('$CLAUDE_FILE_PATH', doraise=True)\" 2>&1 || true",
+            "description": "Syntax-check Python files after writing",
+            "matcher": {
+              "glob": "**/*.py"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

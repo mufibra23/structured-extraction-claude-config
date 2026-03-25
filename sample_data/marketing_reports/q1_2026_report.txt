@@ -1,0 +1,161 @@
+QUARTERLY MARKETING PERFORMANCE REPORT
+Q1 2026 (January 1 - March 31, 2026)
+Prepared by: Digital Marketing Team
+Date: April 2, 2026
+
+==============================================================
+EXECUTIVE SUMMARY
+==============================================================
+
+Total Marketing Spend:    $45,200.00
+Total Attributed Revenue: $187,500.00
+Overall ROAS:             4.15x
+Leads Generated:          1,842
+Customer Acquisitions:    127
+Cost per Acquisition:     $355.91
+
+Quarter-over-quarter revenue grew 22% compared to Q4 2025 ($153,600),
+while spend increased only 8% from $41,850. This represents a
+significant improvement in marketing efficiency.
+
+==============================================================
+CHANNEL PERFORMANCE BREAKDOWN
+==============================================================
+
+1. GOOGLE ADS
+   Spend:            $18,500.00
+   Revenue:          $89,170.00
+   ROAS:             4.82x
+   Clicks:           14,320
+   CTR:              3.8%
+   Conversions:      312
+   Conv. Rate:       2.18%
+   CPC:              $1.29
+   Top Campaign:     "AI Dashboard - Branded Search" (ROAS 7.3x)
+   Notes:            Performance brand terms continue to drive bulk of
+                     conversions. Non-brand campaigns improving after
+                     February ad copy refresh.
+
+2. FACEBOOK / META ADS
+   Spend:            $12,400.00
+   Revenue:          $42,780.00
+   ROAS:             3.45x
+   Impressions:      485,000
+   Clicks:           6,790
+   CTR:              1.4%
+   Conversions:      89
+   Conv. Rate:       1.31%
+   CPM:              $25.57
+   Top Campaign:     "Lookalike - High-Value Customers" (ROAS 5.1x)
+   Notes:            Retargeting audiences performed well. Prospecting
+                     campaigns saw rising CPMs in March due to increased
+                     competition in the SaaS vertical.
+
+3. EMAIL MARKETING
+   Spend:            $3,200.00
+   Revenue:          $48,520.00
+   ROAS:             15.16x
+   Emails Sent:      128,400
+   Open Rate:        34.2%
+   Click Rate:       5.8%
+   Conversions:      241
+   Unsubscribe Rate: 0.3%
+   Top Campaign:     "Win-Back Series - Churned Users" (38% re-engagement)
+   Notes:            Highest ROAS channel by far. The new segmented
+                     nurture sequences launched in February drove a 40%
+                     lift in click-through rates. Win-back series alone
+                     recovered $12,300 in expansion revenue.
+
+4. LINKEDIN ADS
+   Spend:            $8,100.00
+   Revenue:          $6,970.00
+   ROAS:             0.86x  ** UNDERPERFORMING **
+   Impressions:      62,300
+   Clicks:           1,870
+   CTR:              3.0%
+   Conversions:      18
+   Conv. Rate:       0.96%
+   CPC:              $4.33
+   Top Campaign:     "Enterprise Decision Makers - InMail" (ROAS 1.4x)
+   Notes:            LinkedIn continues to underperform on direct revenue
+                     attribution. High CPCs and low conversion rates are
+                     a concern. However, pipeline influence data shows
+                     LinkedIn-sourced leads have 2.3x higher average deal
+                     size ($24,500 vs $10,700). Consider shifting to a
+                     pipeline-weighted attribution model.
+
+5. SEO / ORGANIC
+   Spend:            $3,000.00
+   Revenue:          N/A (no direct attribution)
+   Organic Sessions: 47,200 (+31% QoQ)
+   Top Pages:        /blog/ga4-bigquery-guide (8,400 sessions)
+                     /blog/marketing-dashboard-roi (5,200 sessions)
+                     /pricing (4,100 sessions)
+   Domain Authority: 42 (up from 38 in Q4 2025)
+   New Backlinks:    87
+   Notes:            Organic traffic growing steadily. The GA4 + BigQuery
+                     guide published in January now ranks #3 for
+                     "GA4 BigQuery integration" and drives qualified
+                     demo requests. Content investment is paying off
+                     as a long-term channel.
+
+==============================================================
+KEY INSIGHTS
+==============================================================
+
+1. Email is the efficiency powerhouse. At 15.16x ROAS, email marketing
+   delivers the highest return of any channel. The segmented nurture
+   sequences introduced in February were a turning point — they should
+   be expanded to cover additional lifecycle stages.
+
+2. LinkedIn needs strategic reassessment. At 0.86x ROAS, LinkedIn is
+   operating at a loss on last-touch attribution. However, pipeline data
+   suggests it influences larger enterprise deals. A shift to pipeline-
+   weighted attribution and ABM-focused campaigns may better capture
+   its true value.
+
+3. Google Ads branded search is carrying performance. The 7.3x ROAS on
+   branded terms inflates overall Google Ads numbers. Non-brand campaigns
+   average only 2.1x ROAS and need continued optimization, particularly
+   around landing page experience.
+
+4. Rising Meta CPMs are a warning sign. March CPMs increased 18%
+   month-over-month. If this trend continues into Q2, Facebook spend
+   should be reallocated toward higher-performing retargeting audiences
+   and away from broad prospecting.
+
+5. SEO content is building a compounding asset. The 31% QoQ growth in
+   organic sessions with minimal spend increase demonstrates the flywheel
+   effect. The GA4 + BigQuery guide alone is generating an estimated
+   15-20 demo requests per month at near-zero marginal cost.
+
+==============================================================
+RECOMMENDATIONS FOR Q2 2026
+==============================================================
+
+1. INCREASE EMAIL INVESTMENT (+$1,500/month)
+   Expand the segmented nurture program to include onboarding sequences,
+   feature adoption campaigns, and upsell flows. Projected incremental
+   ROAS: 10-12x. Priority: HIGH.
+
+2. RESTRUCTURE LINKEDIN STRATEGY
+   Reduce LinkedIn spend by 30% ($2,430/month savings). Shift remaining
+   budget toward Account-Based Marketing (ABM) campaigns targeting named
+   enterprise accounts. Implement pipeline-weighted attribution to measure
+   true influence. Test LinkedIn Lead Gen Forms as an alternative to
+   landing page conversions. Priority: HIGH.
+
+3. OPTIMIZE GOOGLE ADS NON-BRAND CAMPAIGNS
+   Conduct landing page A/B tests for top 10 non-brand keywords. Implement
+   Performance Max campaigns for mid-funnel audiences. Target: improve
+   non-brand ROAS from 2.1x to 3.0x by end of Q2. Priority: MEDIUM.
+
+4. DOUBLE DOWN ON SEO CONTENT
+   Commission 8 new long-form guides targeting high-intent keywords
+   identified in Q1 keyword research. Focus on comparison and integration
+   topics where we have product authority. Estimated 6-month traffic
+   impact: +25,000 monthly organic sessions. Priority: MEDIUM.
+
+==============================================================
+Report prepared by the Digital Marketing Team.
+Next review: Q2 2026 Performance Review, scheduled July 2026.

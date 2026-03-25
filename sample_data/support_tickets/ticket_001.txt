@@ -1,0 +1,86 @@
+SUPPORT TICKET
+
+Ticket ID:      TK-20260320-0847
+Priority:        URGENT
+Status:          Open
+Created:         March 20, 2026, 09:14 AM UTC
+Channel:         Email
+Assigned To:     Unassigned
+
+--------------------------------------------------------------
+CUSTOMER INFORMATION
+--------------------------------------------------------------
+Name:            Sarah Chen
+Email:           sarah.chen@techcorp.io
+Company:         TechCorp Industries
+Company ID:      TC-4521
+Plan:            Enterprise
+Account Manager: James Rodriguez (james.r@digitalnusantara.co.id)
+MRR:             $2,400
+
+--------------------------------------------------------------
+SUBJECT: Dashboard not loading - URGENT, demo in 2 hours
+--------------------------------------------------------------
+
+From: sarah.chen@techcorp.io
+Date: March 20, 2026, 09:14 AM UTC
+
+Hi support team,
+
+I need urgent help — our AI Marketing Dashboard is completely down.
+When I open the dashboard URL (https://app.digitalnusantara.co.id/dash/tc-4521),
+I just see a blank white screen. No error message, no loading spinner,
+nothing. Just white.
+
+I've already tried:
+- Refreshing the page (multiple times)
+- Clearing browser cache and cookies
+- Opening in Chrome incognito mode
+- Trying from Firefox and Edge
+- Asking two colleagues to try from their machines — same result for everyone
+
+This started happening sometime this morning. It was working fine
+yesterday evening around 6 PM our time (UTC+7).
+
+Also, I noticed something else before the dashboard went completely
+blank: our Google Analytics 4 data appeared to be stuck. The last
+data point showing was from March 18, so it looks like the GA4
+integration hasn't synced for about 2 days. Not sure if these two
+issues are related.
+
+This is extremely urgent because I have a demo scheduled with our
+VP of Marketing in approximately 2 hours (11:15 AM UTC today). We're
+presenting the Q1 campaign results to justify our analytics tooling
+budget for the rest of the year. If the dashboard isn't working by
+then, it's going to be a very difficult conversation.
+
+Can someone please look into this ASAP? I'm available on email or
+you can reach me directly at +1 (415) 555-0187.
+
+Thank you,
+Sarah Chen
+Director of Digital Marketing
+TechCorp Industries
+
+--------------------------------------------------------------
+SYSTEM INFORMATION (auto-captured)
+--------------------------------------------------------------
+Browser:         Chrome 124.0.6367.91
+OS:              macOS 15.4
+Screen:          2560x1440
+Last Successful: March 20, 2026, 01:23 AM UTC
+Console Errors:  TypeError: Cannot read properties of null
+                 (reading 'analyticsData')
+                 at DashboardMain.js:247
+                 CORS error: blocked request to
+                 https://analytics.googleapis.com/v4/reports
+GA4 Property:    properties/385291047
+Last GA4 Sync:   March 18, 2026, 11:45 PM UTC
+API Status:      200 OK (auth endpoint)
+                 503 Service Unavailable (data endpoint)
+
+--------------------------------------------------------------
+INTERNAL NOTES
+--------------------------------------------------------------
+[Auto-tag: dashboard, blank-screen, ga4-integration, data-sync,
+ urgent, enterprise-customer, demo-deadline]

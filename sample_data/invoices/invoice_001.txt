@@ -1,0 +1,75 @@
+INVOICE
+
+From:
+PT. Digital Nusantara Solutions
+Jl. Sudirman Kav. 52-53, Senayan
+Jakarta Selatan 12190, Indonesia
+Tax ID: 02.458.371.9-073.000
+Email: billing@digitalnusantara.co.id
+Phone: +62 21 5150 2800
+
+Bill To:
+Acme Marketing Corp
+Attn: Accounts Payable
+580 Market Street, Suite 1200
+San Francisco, CA 94104, USA
+Email: ap@acmemarketing.com
+
+--------------------------------------------------------------
+Invoice Number:   INV-2026-0342
+Invoice Date:     March 15, 2026
+Due Date:         April 14, 2026
+Payment Terms:    Net 30
+Currency:         USD
+--------------------------------------------------------------
+
+DESCRIPTION                              QTY    UNIT PRICE      AMOUNT
+--------------------------------------------------------------
+AI Marketing Dashboard Setup               1     $3,500.00    $3,500.00
+  - Custom dashboard design & deployment
+  - Integration with client data sources
+  - User training session (2 hours)
+
+Monthly Analytics Maintenance               3       $750.00    $2,250.00
+  - Covers Jan, Feb, Mar 2026
+  - Performance monitoring & optimization
+  - Monthly insight reports
+
+Custom Report Templates                     5       $200.00    $1,000.00
+  - Campaign performance template
+  - Executive summary template
+  - Channel comparison template
+  - ROI analysis template
+  - Audience segmentation template
+
+Data Integration: GA4 + BigQuery            1     $1,500.00    $1,500.00
+  - GA4 property configuration
+  - BigQuery dataset setup & linking
+  - Automated data pipeline configuration
+  - QA and validation testing
+
+--------------------------------------------------------------
+                                         Subtotal:   $8,250.00
+                                         Tax (11%):     $907.50
+                                         -------------------
+                                         TOTAL DUE:  $9,157.50
+--------------------------------------------------------------
+
+PAYMENT INSTRUCTIONS:
+Bank Transfer (preferred):
+  Bank:      Bank Central Asia (BCA)
+  Account:   PT. Digital Nusantara Solutions
+  Account #: 2481-0573-88
+  SWIFT:     CENAIDJA
+
+Wire Transfer (international):
+  Intermediary Bank: JPMorgan Chase, New York
+  SWIFT: CHASUS33
+  For credit to BCA account above
+
+Notes:
+- Late payments subject to 1.5% monthly interest after due date.
+- Please reference invoice number INV-2026-0342 on all payments.
+- Questions? Contact billing@digitalnusantara.co.id
+
+Thank you for your business!

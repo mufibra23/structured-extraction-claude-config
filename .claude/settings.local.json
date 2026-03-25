@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(source venv/Scripts/activate)",
+      "Bash(pip install:*)",
+      "Bash(git init:*)",
+      "Bash(python -c \":*)",
+      "Bash(chmod +x ci/extract_and_validate.sh ci/batch_extract.sh)",
+      "Bash(ls -la ci/*.sh)",
+      "Bash(bash -n ci/extract_and_validate.sh)",
+      "Bash(bash -n ci/batch_extract.sh)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
